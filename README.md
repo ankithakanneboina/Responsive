@@ -109,8 +109,12 @@ How to create dark/light themes with only CSS
 How to design elegant, minimal UI layouts
 
 👩‍💻 Author
+
 Ankithakanneboina
+
 🌐 GitHub
+https://github.com//ankithakanneboina
+
 
 💌 Open for collaboration and front-end opportunities
 
